@@ -1,4 +1,4 @@
-Huy Q Ho, Std
+Huy Q Ho, Std \n
 Faculty of Information Technology, 
 Industrial University of Ho Chi Minh City
 Phone: +84327018885
