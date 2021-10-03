@@ -1,7 +1,11 @@
-Huy Q Ho, Std \n
+Huy Q Ho, Std
+
 Faculty of Information Technology, 
+
 Industrial University of Ho Chi Minh City
+
 Phone: +84327018885
+
 Mail: huy19443561@gmail.com | quanghuyho.iuh@outlook.com
 
 <!---
